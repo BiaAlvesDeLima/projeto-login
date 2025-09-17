@@ -17,6 +17,7 @@ Grandes telas: acima de 1281px
 
     section#login {
         width: 80vw;
+        height: 315px;
     }
 
     section#login > div#imagem {
@@ -33,6 +34,7 @@ Grandes telas: acima de 1281px
 
     div#formulario > p {
     font-size: 1.2em;
+    margin: 10px 0px;
 }
     
 }
@@ -44,6 +46,7 @@ Grandes telas: acima de 1281px
     
     section#login {
         width: 1000px;
+        height: 390px;
     }
 
     section#login > div#imagem {
@@ -58,6 +61,7 @@ Grandes telas: acima de 1281px
     }
 
     div#formulario > p {
-    font-size: 1.6em;
+    font-size: 1.4em;
+    margin: 20px 0px;
 }
 }
